@@ -437,7 +437,7 @@ footer{
 
 @media screen and (max-width: 992px) {
 	.container {
-		width: 720px;
+		max-width: 720px;
 	}
 	.sec1_content {
     width: 30%;
